@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Mohd Hashir
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Javascript advance concepts
 - 💞️ I’m looking to collaborate on innovative Web applications
 - 📫 How to reach me: My LinedIn: https://www.linkedin.com/in/mohd-hashir-1b8a7025a or mailto: mohdhashir443@gmail.com
 - 😄 Pronouns: He/Him
